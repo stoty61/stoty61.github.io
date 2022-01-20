@@ -1,2 +1,2 @@
 # stoty61.github.io
-Cole's Website
+Cole Stotland's Website
