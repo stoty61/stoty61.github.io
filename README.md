@@ -3,3 +3,7 @@ Welcome to the repository of my first website! This project was the first websit
 
 # About
 This site was created using basic HTML, CSS, and a sprinkle of JavaScript. Please feel free to take a look (but keep in mind it is outdated): stoty61.github.io
+
+![Local Image](website_ss.png)
+
+
